@@ -1,0 +1,12 @@
+var n1 = 6;
+var n2 = 2;
+console.log(n1 + n2);
+var a1 = 10;
+var a2 = 2;
+console.log(a1 - a2);
+var b1 = 4;
+var b2 = 2;
+console.log(b1 * b2);
+var c1 = 16;
+var c2 = 2;
+console.log(c1 / c2);
